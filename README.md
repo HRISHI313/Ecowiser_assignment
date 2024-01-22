@@ -21,8 +21,9 @@ This project is a Python-based LinkedIn scraper that automates the process of se
 
 2. Run the script:
 
-    ```bash
-    python linkedin_scraper.py
+    ```
+    browser_automation_script.ipynb
+    linkedin_api_script,ipynb
     ```
 
 ## Configuration
