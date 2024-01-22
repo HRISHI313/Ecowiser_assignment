@@ -14,11 +14,6 @@ This project is a Python-based LinkedIn scraper that automates the process of se
 
 1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/your_username/linkedin-scraper.git
-    cd linkedin-scraper
-    ```
-
 2. Run the script:
 
     ```
