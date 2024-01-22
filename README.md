@@ -19,13 +19,7 @@ This project is a Python-based LinkedIn scraper that automates the process of se
     cd linkedin-scraper
     ```
 
-2. Install the required dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the script:
+2. Run the script:
 
     ```bash
     python linkedin_scraper.py
