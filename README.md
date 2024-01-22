@@ -15,6 +15,7 @@ This project is a Python-based LinkedIn scraper that automates the process of se
 - [Python](https://www.python.org/) (>=3.6)
 - [Chrome WebDriver](https://sites.google.com/chromium.org/driver/) - Ensure the path is correctly set in the code.
 - [LinkedIn Account](https://www.linkedin.com/)
+- [Selenium](https://www.selenium.dev/selenium/docs/api/py/)
 
 ## Usage
 
