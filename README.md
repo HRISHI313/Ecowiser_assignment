@@ -10,6 +10,12 @@ This project is a Python-based LinkedIn scraper that automates the process of se
 - LinkedIn Credentials: Enter your LinkedIn email and password in `mail` and `paswd` respectively.
 - LinkedIn API Access: Obtain an access token and cookies for API requests and replace the placeholders in the script.
 
+## Requirements
+
+- [Python](https://www.python.org/) (>=3.6)
+- [Chrome WebDriver](https://sites.google.com/chromium.org/driver/) - Ensure the path is correctly set in the code.
+- [LinkedIn Account](https://www.linkedin.com/)
+
 ## Usage
 
 1. Clone the repository:
