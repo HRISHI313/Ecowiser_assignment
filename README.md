@@ -43,6 +43,10 @@ The script will generate a CSV file named `profile.csv` containing the extracted
 
 To use the LinkedIn API, make sure you have obtained the necessary access token and cookies. Replace the placeholders in the API integration section of the script.
 
+LinkedIn API does not offer users information currently. They only offer API for sharing or posting contents and other marketing or lead generation.
+
+The below code is being generated from postman
+
 ```python
 token = 'Enter the access token'
 cookies = 'Enter the cookie that has been generated'
